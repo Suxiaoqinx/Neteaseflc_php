@@ -28,8 +28,8 @@
 ### 1. 下载项目
 
 ```bash
-git clone https://github.com/your-username/netease-music-api-php.git
-cd netease-music-api-php/demophp
+git clone https://github.com/Suxiaoqinx/Neteaseflc_php.git
+cd Neteaseflc_php
 ```
 
 ### 2. 配置 Cookie（可选）
@@ -37,7 +37,7 @@ cd netease-music-api-php/demophp
 创建 `cookie.txt` 文件并添加你的网易云音乐 Cookie：
 
 ```
-MUSIC_U=your_music_u_value; __csrf=your_csrf_value; ...
+MUSIC_U=......;os=pc;appver=8.9.75; ...
 ```
 
 ### 3. 使用示例
