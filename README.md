@@ -149,7 +149,7 @@ $currentCookies = $api->getCookies();
 ## 📁 项目结构
 
 ```
-demophp/
+Neteaseflc_php/
 ├── getMusicapi.php          # 核心 API 类
 ├── getMusicUrl.php          # 获取音乐链接示例
 ├── getSearchMusic.php       # 搜索音乐示例
